@@ -1,0 +1,81 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://180.210.191.2/img/sonypixhd.jpg" group-title="English", SONYPIXHD
+http://180.210.191.2/hls/stream1.m3u8
+#EXTINF:-1 tvg-logo="http://180.210.191.2/img/axn.jpg" group-title="English", AXN
+http://180.210.191.2/hls/stream2.m3u8
+#EXTINF:-1 tvg-logo="http://180.210.191.2/img/starmovies.jpg" group-title="English", STARMOVIES
+http://180.210.191.2/hls/stream3.m3u8
+#EXTINF:-1 tvg-logo="http://180.210.191.2/img/qxm.png" group-title="Hindi", QXM
+http://180.210.191.2/hls/stream4.m3u8
+#EXTINF:-1 tvg-logo="http://180.210.191.2/img/bbcearth.jpg" group-title="English", BBCEARTH
+http://180.210.191.2/hls/stream5.m3u8
+#EXTINF:-1 tvg-logo="http://180.210.191.2/img/animalplanent.jpg" group-title="English", ANIMALPLANENT
+http://180.210.191.2/hls/stream6.m3u8
+#EXTINF:-1 tvg-logo="http://180.210.191.2/img/utvaction.jpg" group-title="Hindi", UTVACTION
+http://180.210.191.2/hls/stream7.m3u8
+#EXTINF:-1 tvg-logo="http://180.210.191.2/img/zoom.jpg" group-title="Hindi", ZOOM
+http://180.210.191.2/hls/stream8.m3u8
+#EXTINF:-1 tvg-logo="http://180.210.191.2/img/dis.png" group-title="English", DIS
+http://180.210.191.2/hls/stream9.m3u8
+#EXTINF:-1 tvg-logo="http://180.210.191.2/img/Sony-six-hd.png" group-title="Sports", SONY-SIX-HD
+http://180.210.191.2/hls/stream10.m3u8
+#EXTINF:-1 tvg-logo="http://180.210.191.2/img/PTV_Sports.png" group-title="Sports", PTV SPORTS
+http://180.210.191.2/hls/stream11.m3u8
+#EXTINF:-1 tvg-logo="http://180.210.191.2/img/Star_Sports_Select_1_HD.jpg" group-title="Sports", STAR SPORTS SELECT 1 HD
+http://180.210.191.2/hls/stream12.m3u8
+#EXTINF:-1 tvg-logo="http://180.210.191.2/img/Nat_Geo_HD.png" group-title="English", NAT GEO HD
+http://180.210.191.2/hls/stream13.m3u8
+#EXTINF:-1 tvg-logo="http://180.210.191.2/img/andpictures-hd.jpg" group-title="Hindi", ANDPICTURES-HD
+http://180.210.191.2/hls/stream14.m3u8
+#EXTINF:-1 tvg-logo="http://180.210.191.2/img/stersports1hd.jpg" group-title="Sports", STERSPORTS1HD
+http://180.210.191.2/hls/stream15.m3u8
+#EXTINF:-1 tvg-logo="http://180.210.191.2/img/ster-sport-2hd.png" group-title="Sports", STER-SPORT-2HD
+http://180.210.191.2/hls/stream16.m3u8
+#EXTINF:-1 tvg-logo="http://180.210.191.2/img/atnbangla.jpg" group-title="Bangla", ATNBANGLA
+http://180.210.191.2/hls/stream17.m3u8
+#EXTINF:-1 tvg-logo="http://180.210.191.2/img/channeli.jpg" group-title="Bangla", CHANNELI
+http://180.210.191.2/hls/stream18.m3u8
+#EXTINF:-1 tvg-logo="http://180.210.191.2/img/stargold.jpg" group-title="Hindi", STARGOLD
+http://180.210.191.2/hls/stream19.m3u8
+#EXTINF:-1 tvg-logo="http://180.210.191.2/img/maasranga.jpg" group-title="Bangla", MAASRANGA
+http://180.210.191.2/hls/stream20.m3u8
+#EXTINF:-1 tvg-logo="http://180.210.191.2/img/somoytv.jpg" group-title="Bangla", SOMOYTV
+http://180.210.191.2/hls/stream21.m3u8
+#EXTINF:-1 tvg-logo="http://180.210.191.2/img/channel24.jpg" group-title="Bangla", CHANNEL24
+http://180.210.191.2/hls/stream22.m3u8
+#EXTINF:-1 tvg-logo="http://180.210.191.2/img/nick.jpg" group-title="Cartoon", NICK
+http://180.210.191.2/hls/stream23.m3u8
+#EXTINF:-1 tvg-logo="http://180.210.191.2/img/nagoriktvhd.jpg" group-title="Bangla", NAGORIKTVHD
+http://180.210.191.2/hls/stream24.m3u8
+#EXTINF:-1 tvg-logo="http://180.210.191.2/img/zeecinemahd.jpg" group-title="Hindi", ZEECINEMAHD
+http://180.210.191.2/hls/stream25.m3u8
+#EXTINF:-1 tvg-logo="http://180.210.191.2/img/enter10bangla.jpg" group-title="Bangla", ENTER10BANGLA
+http://180.210.191.2/hls/stream26.m3u8
+#EXTINF:-1 tvg-logo="http://180.210.191.2/img/jalsha_movies.jpg" group-title="Bangla", JALSHA MOVIES
+http://180.210.191.2/hls/stream27.m3u8
+#EXTINF:-1 tvg-logo="http://180.210.191.2/img/colorsbangla.jpg" group-title="Bangla", COLORSBANGLA
+http://180.210.191.2/hls/stream28.m3u8
+#EXTINF:-1 tvg-logo="http://180.210.191.2/img/colorscineplex.jpg" group-title="Hindi", COLORSCINEPLEX
+http://180.210.191.2/hls/stream29.m3u8
+#EXTINF:-1 tvg-logo="http://180.210.191.2/img/zeebanglahd.jpg" group-title="Bangla", ZEEBANGLAHD
+http://180.210.191.2/hls/stream30.m3u8
+#EXTINF:-1 tvg-logo="http://180.210.191.2/img/starjalsha.jpg" group-title="Bangla", STARJALSHA
+http://180.210.191.2/hls/stream31.m3u8
+#EXTINF:-1 tvg-logo="http://180.210.191.2/img/sonyyay.jpg" group-title="Cartoon", SONYYAY
+http://180.210.191.2/hls/stream32.m3u8
+#EXTINF:-1 tvg-logo="http://180.210.191.2/img/quraantv.jpg" group-title="Others", QURAANTV
+http://180.210.191.2/hls/stream33.m3u8
+#EXTINF:-1 tvg-logo="http://180.210.191.2/img/ten_sports.jpg" group-title="Sports", TEN SPORTS
+http://180.210.191.2/hls/stream34.m3u8
+#EXTINF:-1 tvg-logo="http://180.210.191.2/img/aljazeera.jpg" group-title="English", ALJAZEERA
+http://180.210.191.2/hls/stream35.m3u8
+#EXTINF:-1 tvg-logo="http://180.210.191.2/img/bbcworld.jpg" group-title="English", BBCWORLD
+http://180.210.191.2/hls/stream36.m3u8
+#EXTINF:-1 tvg-logo="http://180.210.191.2/img/travelxphd.jpg" group-title="Bangla", TRAVELXPHD
+http://180.210.191.2/hls/stream37.m3u8
+#EXTINF:-1 tvg-logo="http://180.210.191.2/img/starplus.jpg" group-title="Hindi", STARPLUS
+http://180.210.191.2/hls/stream38.m3u8
+#EXTINF:-1 tvg-logo="http://180.210.191.2/img/sony_ten_2.jpg" group-title="Sports", SONY TEN 2
+http://180.210.191.2/hls/stream39.m3u8
+#EXTINF:-1 tvg-logo="http://180.210.191.2/img/sony_ten_1.jpg" group-title="Sports", SONY TEN 1
+http://180.210.191.2/hls/stream40.m3u8
